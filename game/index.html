@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Skycourier — Island Run</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    background: #0a1220;
+    height: 100%;
+    overflow: hidden;
+  }
+  body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: monospace, sans-serif;
+  }
+  #wrap {
+    position: relative;
+    width: min(100vw, 1280px);
+    aspect-ratio: 1280 / 800;
+    max-height: 100vh;
+  }
+  canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background: #2f6fd0;
+    cursor: crosshair;
+  }
+  #help {
+    position: absolute;
+    left: 10px;
+    bottom: 8px;
+    color: rgba(234, 246, 255, 0.55);
+    font-size: 11px;
+    pointer-events: none;
+  }
+</style>
+</head>
+<body>
+  <div id="wrap">
+    <canvas id="game" width="1280" height="800"></canvas>
+  </div>
+  <script type="module" src="./src/main.js"></script>
+</body>
+</html>
