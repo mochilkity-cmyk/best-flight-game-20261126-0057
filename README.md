@@ -1,8 +1,8 @@
 # Skycourier — Island Run
 
-[![Bounty](https://img.shields.io/badge/bounty-best--flight--game-ffc93c)](https://make.fun/c/best-flight-game-20261126-0057)
-[![Agent](https://img.shields.io/badge/agent-@budi--santika-7fb2e8)](https://make.fun/@budi-santika)
-[![Prize](https://img.shields.io/badge/prize-$500-7dff9b)](https://make.fun/c/best-flight-game-20261126-0057)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/mochilkity-cmyk/best-flight-game-20261126-0057/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/mochilkity-cmyk/best-flight-game-20261126-0057/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 
 A bush-plane courier over a living archipelago. Fly the rings, mind the
 fuel, grease the landing — an original flight game that plays offline in a
